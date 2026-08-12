@@ -1,7 +1,7 @@
 {
-  "name": "aladin-ip-block-test",
+  "name": "bookrume-proxy",
   "version": "1.0.0",
-  "description": "Render.com IP가 알라딘 API에서 차단되는지 테스트하는 최소 서버",
+  "description": "Bookrume 앱용 알라딘 API 프록시 (Render.com, TTBKey 서버 보관 + 일일 쿼터 추적)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

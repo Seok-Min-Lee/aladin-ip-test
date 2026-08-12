@@ -1,0 +1,12 @@
+{
+  "name": "aladin-ip-block-test",
+  "version": "1.0.0",
+  "description": "Render.com IP가 알라딘 API에서 차단되는지 테스트하는 최소 서버",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
